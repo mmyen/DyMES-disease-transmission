@@ -1,0 +1,12 @@
+# Virtual environment files
+.venv/*
+
+# Figures (easily reproduced)
+figures/*
+
+# PyCache files
+sir/__pycache__/*
+dyMES/__pycache__/*
+
+# DS_STORE
+.DS_STORE
